@@ -1,4 +1,4 @@
-# Spotify-Project
+# Predicting the popularity of a song on Spotify
 
 In this Github, you can find the work I did with three of my fellow comrades, Mohammed Nafeez Abubacker (from India), Min Chen (from China) and Jella Carillo (from Philippines) in the context of our Machine Learning Course (Master in Data Science & Business Analytics -Essec Business School & CentraleSuplec in France-).
 
