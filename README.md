@@ -2,7 +2,7 @@
 
 In this Github, you can find the work I did with three of my fellow comrades, Mohammed Nafeez Abubacker (from India), Min Chen (from China) and Jella Carillo (from Philippines) in the context of our Machine Learning Course (Master in Data Science & Business Analytics -Essec Business School & CentraleSuplec in France-).
 
-We chose to develop aglorithms that can predict the popularity of a song in Spotify. On Spotify, the popularity of a song is a score between 0 and 100. In our study, we turned this feature into bi-class feature to make our life easier and work on a simple classification problem. The 25% most popular songs were considered as popular (1), the remaining ones as non-popular (0).
+Our goal was to predict the popularity of a song from Spotify. On Spotify, the popularity of a song is a score between 0 and 100. In our study, we turned this feature into bi-class feature to make our life easier and work on a simple classification problem. The 25% most popular songs were considered as popular (1), the remaining ones as non-popular (0).
 
 We used and merged two databases : a dataset A with 232,725 tracks extracted from the Spotify API with their Spotify features (artist, danceability,duration, popularity, speechiness, etc.) and a dataset B of lyrics of 57,650 songs. We focused our whole study on the resulting merged dataset of 5261 songs with their lyrics and their Spotify features.
 
