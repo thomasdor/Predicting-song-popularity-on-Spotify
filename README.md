@@ -6,7 +6,7 @@ Our goal was to predict the popularity of a song from Spotify. On Spotify, the p
 
 We used and merged two databases : a dataset A with 232,725 tracks extracted from the Spotify API with their Spotify features (artist, danceability,duration, popularity, speechiness, etc.) and a dataset B of lyrics of 57,650 songs. We focused our whole study on the resulting merged dataset of 5261 songs with their lyrics and their Spotify features.
 
-Our key features can be divided in two parts : the first one coming from the sentiment analysis of the lyrics (three features) and the second one coming from the original Spotify features (a dozen of original features).
+Our key features can be divided in two parts : the first one coming from the sentiment analysis of the lyrics (three features) and the second one coming from the original Spotify features (a dozen of features).
 
 We performed encoding on certain features (such as the name of the artist) to get around 500 features. Using feature selections, we got our best results with AdaBoost with an accuracy of 0.78 and 60 features. (As it was our first Machine Learning Project, we did not know XgBoost at the time).
 
