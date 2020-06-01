@@ -8,6 +8,6 @@ We used and merged two databases : a dataset A with 232,725 tracks extracted fro
 
 Our key features can be divided in two parts : the first one coming from the sentiment analysis of the lyrics (three features) and the second one coming from the original Spotify features (a dozen of features).
 
-We performed encoding on certain features (such as the name of the artist) to get around 500 features. Using feature selections, we got our best results with AdaBoost with an accuracy of 0.78 and 60 features. (As it was our first Machine Learning Project, we did not know XgBoost at the time).
+We performed encoding on certain features (such as the name of the artist) to get around 500 features. Using feature selections, we got our best results with AdaBoost with an accuracy of 0.78 and 60 features. (As it was our first Machine Learning Project, we did not know XgBoost at that time).
 
-You can also find herewith our final report, final code as well as the ppt presentation detailing our methodologies and results. Good reading !
+You can find more herewith our final report, final code as well as the ppt presentation detailing our methodologies and results. Good reading !
